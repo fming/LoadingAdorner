@@ -1,0 +1,8 @@
+﻿<Window x:Class="LearnAdorner.SmartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SmartWindow" Height="300" Width="300">
+    <Grid x:Name="hello">
+        <Button Content="Hellooo" Foreground="Green" MouseDoubleClick="SmartWindow_MouseDoubleClick"/>
+    </Grid>
+</Window>
